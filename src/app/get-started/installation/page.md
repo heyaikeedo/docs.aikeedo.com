@@ -47,4 +47,4 @@ Congratulations! You've successfully installed Aikeedo.
 
 Thank you for choosing Aikeedo. Enjoy the power of AI in your content creation endeavors!
 
-If you have any questions or need assistance, feel free to [reach out to our support team](mailto:hey@aikeedo.com).
+If you have any questions or need assistance, feel free to [reach out to our support team](mailto:support@aikeedo.com).

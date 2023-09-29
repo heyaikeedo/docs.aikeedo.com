@@ -34,4 +34,4 @@ Ensure that you have created appropriate pricing plans before selecting the Sign
 
 By configuring these billing settings, you can tailor the subscription process to meet the needs of your business and users. I
 
-If you have any questions or need assistance, feel free to [reach out to our support team](mailto:hey@aikeedo.com).
+If you have any questions or need assistance, feel free to [reach out to our support team](mailto:support@aikeedo.com).

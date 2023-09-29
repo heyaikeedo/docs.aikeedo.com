@@ -21,4 +21,4 @@ Understanding the file structure is crucial for a seamless setup of Aikeedo. Let
 
 Thank you for choosing Aikeedo! Get ready to experience the future of AI-powered content creation!
 
-If you have any questions or need assistance, feel free to [reach out to our support team](mailto:hey@aikeedo.com).
+If you have any questions or need assistance, feel free to [reach out to our support team](mailto:support@aikeedo.com).

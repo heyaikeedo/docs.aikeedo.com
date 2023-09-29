@@ -125,3 +125,5 @@ To create a prompt template for an "Article Generator," use the following exampl
 ```
 
 This template generates a form for users to input the topic, draft content, language, and tone for an article.
+
+If you have any questions or need assistance, feel free to [reach out to our support team](mailto:support@aikeedo.com).

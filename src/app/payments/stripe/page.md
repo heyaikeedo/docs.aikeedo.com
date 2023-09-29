@@ -75,4 +75,4 @@ Webhooks are necessary for handling recurring payments. Follow these steps to cr
 
 By completing these steps, you've successfully enabled Stripe payments in Aikeedo. Your users can now make secure payments through Stripe, ensuring a smooth and reliable transaction process.
 
-If you have any questions or need assistance, feel free to [reach out to our support team](mailto:hey@aikeedo.com).
+If you have any questions or need assistance, feel free to [reach out to our support team](mailto:support@aikeedo.com).

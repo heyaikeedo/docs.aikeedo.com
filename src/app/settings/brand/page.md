@@ -35,4 +35,4 @@ Make a lasting impression by customizing your Aikeedo platform with a unique log
 
 By configuring the logo settings, you enhance the visual identity of your Aikeedo platform, making it easily recognizable and reinforcing your brand.
 
-If you have any questions or need assistance, feel free to [reach out to our support team](mailto:hey@aikeedo.com).
+If you have any questions or need assistance, feel free to [reach out to our support team](mailto:support@aikeedo.com).

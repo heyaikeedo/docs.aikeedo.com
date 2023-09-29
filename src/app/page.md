@@ -39,3 +39,5 @@ Stay updated and connect with us on social media! Follow us [(@heyaikeedo)](http
 Aikeedo is more than just a platform; it's a community-driven ecosystem that thrives on innovation and collaboration. Get ready to unleash the power of AI in your content creation journey with Aikeedo!
 
 Explore more sections of our documentation to dive deeper into the features, installation guides, and best practices. Let's embark on this exciting journey together!
+
+If you have any questions or need assistance, feel free to [reach out to our support team](mailto:support@aikeedo.com).

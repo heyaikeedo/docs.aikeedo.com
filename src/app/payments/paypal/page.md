@@ -90,4 +90,4 @@ Webhooks are necessary for handling recurring payments. Follow these steps to cr
 
 By completing these steps, you've successfully enabled PayPal payments in Aikeedo. Your users can now securely make payments through PayPal, and the platform is ready to handle recurring payments through webhooks.
 
-If you have any questions or need assistance, feel free to [reach out to our support team](mailto:hey@aikeedo.com).
+If you have any questions or need assistance, feel free to [reach out to our support team](mailto:support@aikeedo.com).

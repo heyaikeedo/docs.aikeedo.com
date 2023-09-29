@@ -50,4 +50,6 @@ Integrate the power of OpenAI into your Aikeedo platform to enhance content crea
 
 Once the OpenAI integration is enabled, you can harness its capabilities within the Aikeedo platform. Explore the documentation or contact support for details on how to leverage OpenAI for content generation and other intelligent tasks.
 
-By following these steps, you've successfully integrated OpenAI into Aikeedo, opening up new possibilities for advanced content creation. If you encounter any issues or have questions during the setup process, refer to our documentation or reach out to our support team. Thank you for choosing Aikeedo!
+By following these steps, you've successfully integrated OpenAI into Aikeedo, opening up new possibilities for advanced content creation.
+
+If you have any questions or need assistance, feel free to [reach out to our support team](mailto:support@aikeedo.com).

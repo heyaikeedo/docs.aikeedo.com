@@ -43,4 +43,4 @@ Configure your email settings in Aikeedo to ensure effective communication with 
 
 By customizing your mail settings, you ensure that users receive emails from Aikeedo with the appropriate sender details.
 
-If you have any questions or need assistance, feel free to [reach out to our support team](mailto:hey@aikeedo.com).
+If you have any questions or need assistance, feel free to [reach out to our support team](mailto:support@aikeedo.com).

@@ -31,4 +31,4 @@ Customize your site and enhance its visibility with Aikeedo's General Settings. 
 
 By adjusting the General Settings, you ensure that your site is branded effectively, and its SEO aspects are tailored to maximize visibility.
 
-If you have any questions or need assistance, feel free to [reach out to our support team](mailto:hey@aikeedo.com).
+If you have any questions or need assistance, feel free to [reach out to our support team](mailto:support@aikeedo.com).

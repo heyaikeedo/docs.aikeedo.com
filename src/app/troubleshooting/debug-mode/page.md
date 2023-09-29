@@ -34,4 +34,4 @@ It is highly recommended to keep debug mode disabled in a production environment
 
 By understanding how to adjust the `DEBUG` setting in the `.env` file, you can easily control the debug mode status in Aikeedo. Remember to exercise caution and follow security best practices, especially in production environments.
 
-If you have any questions or need assistance, feel free to [reach out to our support team](mailto:hey@aikeedo.com).
+If you have any questions or need assistance, feel free to [reach out to our support team](mailto:support@aikeedo.com).

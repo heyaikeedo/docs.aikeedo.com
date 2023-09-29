@@ -36,4 +36,4 @@ Open your browser's developer tools and navigate to the console tab. Any JavaScr
 
 By following these troubleshooting steps and preventive measures, you can effectively manage and mitigate the 500 Internal Server Error in Aikeedo.
 
-If you have any questions or need assistance, feel free to [reach out to our support team](mailto:hey@aikeedo.com).
+If you have any questions or need assistance, feel free to [reach out to our support team](mailto:support@aikeedo.com).

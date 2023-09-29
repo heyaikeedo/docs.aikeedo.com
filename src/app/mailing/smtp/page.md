@@ -43,4 +43,4 @@ _After successfully saving the SMTP settings, set the mailer transport to SMTP i
 
 By configuring SMTP settings, you ensure that Aikeedo can securely send emails using your specified SMTP server.
 
-If you have any questions or need assistance, feel free to [reach out to our support team](mailto:hey@aikeedo.com).
+If you have any questions or need assistance, feel free to [reach out to our support team](mailto:support@aikeedo.com).
