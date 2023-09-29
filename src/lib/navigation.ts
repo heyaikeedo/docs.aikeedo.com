@@ -1,56 +1,60 @@
 export const navigation = [
   {
-    title: 'Introduction',
+    title: 'Get started',
     links: [
-      { title: 'Getting started', href: '/' },
-      { title: 'Installation', href: '/docs/installation' },
+      { title: 'Introduction', href: '/' },
+      { title: 'Get aikeedo', href: '/get-started/get-aikeedo' },
+      { title: 'File structure', href: '/get-started/file-structure' },
+      { title: 'Server requirements', href: '/get-started/requirements' },
+      { title: 'Installation', href: '/get-started/installation' },
     ],
   },
   {
-    title: 'Core concepts',
+    title: 'Website & Branding',
     links: [
-      { title: 'Understanding caching', href: '/docs/understanding-caching' },
-      {
-        title: 'Predicting user behavior',
-        href: '/docs/predicting-user-behavior',
-      },
-      { title: 'Basics of time-travel', href: '/docs/basics-of-time-travel' },
-      {
-        title: 'Introduction to string theory',
-        href: '/docs/introduction-to-string-theory',
-      },
-      { title: 'The butterfly effect', href: '/docs/the-butterfly-effect' },
+      { title: 'Title & SEO', href: '/settings/general' },
+      { title: 'Logo', href: '/settings/brand' }
     ],
   },
   {
-    title: 'Advanced guides',
+    title: 'Email & Notifications',
     links: [
-      { title: 'Writing plugins', href: '/docs/writing-plugins' },
-      { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
-      { title: 'Temporal paradoxes', href: '/docs/temporal-paradoxes' },
-      { title: 'Testing', href: '/docs/testing' },
-      { title: 'Compile-time caching', href: '/docs/compile-time-caching' },
-      {
-        title: 'Predictive data generation',
-        href: '/docs/predictive-data-generation',
-      },
+      { title: 'Mailer', href: '/mailing/mailer' },
+      { title: 'SMTP', href: '/mailing/smtp' }
     ],
   },
   {
-    title: 'API reference',
+    title: 'Payment Gateways',
     links: [
-      { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
-      { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
-      { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
-      { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
+      { title: 'PayPal', href: '/payments/paypal' },
+      { title: 'Stripe', href: '/payments/stripe' }
     ],
   },
   {
-    title: 'Contributing',
+    title: 'AI, GPT & Generators',
     links: [
-      { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture-guide' },
-      { title: 'Design principles', href: '/docs/design-principles' },
+      { title: 'OpenAI', href: '/ai/openai' },
     ],
   },
+  {
+    title: 'Guides',
+    links: [
+      { title: 'Billing Overview', href: '/guides/billing' },
+      { title: 'Templates', href: '/guides/presets' },
+    ],
+  },
+  {
+    title: 'Troubleshooting',
+    links: [
+      { title: 'Debug Mode', href: '/troubleshooting/debug-mode' },
+      { title: 'Fix HTTP 500 error', href: '/troubleshooting/fix-500-error' }
+    ],
+  },
+  {
+    title: 'Versioning',
+    links: [
+      { title: 'Update', href: '/versioning/instructions' },
+      { title: 'Changelog', href: '/versioning/changelog' },
+    ],
+  }
 ]
