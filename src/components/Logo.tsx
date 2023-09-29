@@ -7,20 +7,20 @@ export function Logomark(props: React.ComponentPropsWithoutRef<'svg'>) {
       <path d="M0.000567314 26.0748C0.000567314 26.0748 0.000567314 26.0748 0.000567314 26.0774C0.0368893 26.365 2.46267 44.7015 21.6718 46.8787C23.3504 47.0687 24.9226 47.0995 26.3937 46.9942C46.1684 45.5719 48.3892 17.4406 29.0659 13.0554C24.4401 12.0053 18.9684 12.6857 12.9156 16.8603C13.5383 15.7512 14.2414 14.2595 16.1976 12.7525C21.389 8.42891 28.1345 8.76268 29.4525 8.88335C37.0568 9.56628 45.1332 15.8539 46.8351 24.139C48.1635 30.614 44.9568 35.9235 44.098 37.2996C42.6996 39.5384 40.8446 41.4871 38.6964 43.102C24.3285 53.9083 3.41223 45.8851 0.267785 28.3008C0.0213145 26.9221 -0.00462154 26.0774 0.000567314 26.0748Z" fill="url(#paint3_linear_15410_10533)"/>
       <defs>
         <linearGradient id="paint0_linear_15410_10533" x1="5.54882" y1="18.162" x2="47.9983" y2="18.162" gradientUnits="userSpaceOnUse">
-          <stop offset="0.3752" stop-color="#C4DA4E"/>
-          <stop offset="1" stop-color="#D1E06D"/>
+          <stop offset="0.3752" stopColor="#C4DA4E"/>
+          <stop offset="1" stopColor="#D1E06D"/>
         </linearGradient>
         <linearGradient id="paint1_linear_15410_10533" x1="0.845947" y1="19.5876" x2="48.0004" y2="19.5876" gradientUnits="userSpaceOnUse">
-          <stop stop-color="#D1E06E"/>
-          <stop offset="0.6248" stop-color="#C6DA44"/>
+          <stop stopColor="#D1E06E"/>
+          <stop offset="0.6248" stopColor="#C6DA44"/>
         </linearGradient>
         <linearGradient id="paint2_linear_15410_10533" x1="42.4489" y1="29.8327" x2="-0.000543989" y2="29.8327" gradientUnits="userSpaceOnUse">
-          <stop offset="0.3752" stop-color="#C4DA4E"/>
-          <stop offset="1" stop-color="#D1E06D"/>
+          <stop offset="0.3752" stopColor="#C4DA4E"/>
+          <stop offset="1" stopColor="#D1E06D"/>
         </linearGradient>
         <linearGradient id="paint3_linear_15410_10533" x1="47.1549" y1="28.4119" x2="0.000595851" y2="28.4119" gradientUnits="userSpaceOnUse">
-          <stop stop-color="#D1E06E"/>
-          <stop offset="0.6248" stop-color="#C6DA44"/>
+          <stop stopColor="#D1E06E"/>
+          <stop offset="0.6248" stopColor="#C6DA44"/>
         </linearGradient>
       </defs>
     </svg>
@@ -43,20 +43,20 @@ export function Logo(props: React.ComponentPropsWithoutRef<'svg'>) {
       <path d="M0.000378209 17.3834C0.000378209 17.3834 0.000378209 17.3833 0.000378209 17.3851C0.0245929 17.5768 1.64178 29.8011 14.4479 31.2526C15.5669 31.3793 16.6151 31.3998 17.5958 31.3296C30.7789 30.3814 32.2595 11.6272 19.3773 8.70373C16.2934 8.00368 12.6456 8.45726 8.61041 11.2404C9.02552 10.5009 9.49425 9.50648 10.7984 8.50176C14.2593 5.6194 18.7563 5.84191 19.635 5.92235C24.7045 6.37764 30.0888 10.5694 31.2234 16.0928C32.109 20.4095 29.9712 23.9491 29.3987 24.8665C28.4664 26.3591 27.2297 27.6582 25.7976 28.7348C16.219 35.939 2.27482 30.5902 0.178523 18.8673C0.0142097 17.9482 -0.00308103 17.3851 0.000378209 17.3834Z" fill="url(#paint3_linear_13600_9507)"></path>
       <defs>
         <linearGradient id="paint0_linear_13600_9507" x1="3.69856" y1="12.109" x2="31.9982" y2="12.109" gradientUnits="userSpaceOnUse">
-          <stop offset="0.3752" stop-color="#C4DA4E"></stop>
-          <stop offset="1" stop-color="#D1E06D"></stop>
+          <stop offset="0.3752" stopColor="#C4DA4E"></stop>
+          <stop offset="1" stopColor="#D1E06D"></stop>
         </linearGradient>
         <linearGradient id="paint1_linear_13600_9507" x1="0.563313" y1="13.0584" x2="31.9996" y2="13.0584" gradientUnits="userSpaceOnUse">
-          <stop stop-color="#D1E06E"></stop>
-          <stop offset="0.6248" stop-color="#C6DA44"></stop>
+          <stop stopColor="#D1E06E"></stop>
+          <stop offset="0.6248" stopColor="#C6DA44"></stop>
         </linearGradient>
         <linearGradient id="paint2_linear_13600_9507" x1="28.3012" y1="19.8896" x2="0.00159047" y2="19.8896" gradientUnits="userSpaceOnUse">
-          <stop offset="0.3752" stop-color="#C4DA4E"></stop>
-          <stop offset="1" stop-color="#D1E06D"></stop>
+          <stop offset="0.3752" stopColor="#C4DA4E"></stop>
+          <stop offset="1" stopColor="#D1E06D"></stop>
         </linearGradient>
         <linearGradient id="paint3_linear_13600_9507" x1="31.4366" y1="18.9414" x2="0.000397234" y2="18.9414" gradientUnits="userSpaceOnUse">
-          <stop stop-color="#D1E06E"></stop>
-          <stop offset="0.6248" stop-color="#C6DA44"></stop>
+          <stop stopColor="#D1E06E"></stop>
+          <stop offset="0.6248" stopColor="#C6DA44"></stop>
         </linearGradient>
       </defs>
     </svg>
