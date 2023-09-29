@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../tailwindui-syntax/syntax-ts"
+    }
+  ],
+  "settings": {},
+}
