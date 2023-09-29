@@ -23,11 +23,11 @@ const lexend = localFont({
 
 export const metadata: Metadata = {
   title: {
-    template: '%s - Docs',
-    default: 'CacheAdvance - Never miss the cache again.',
+    template: '%s - Aikeedo Docs',
+    default: 'Aikeedo - AI Powered Content Platform, Self-Hosted SaaS ready Source Available Software',
   },
   description:
-    'Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.',
+    'Aikeedo is AI Powered Content Platform, Self-Hosted SaaS ready Source Available Software.',
 }
 
 export default function RootLayout({
