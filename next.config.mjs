@@ -6,6 +6,8 @@ import withSearch from './src/markdoc/search.mjs'
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   pageExtensions: ['js', 'jsx', 'md', 'ts', 'tsx'],
+  output: 'export',
+  distDir: 'dist',
   webpack(config) {
     config.module.rules.unshift({
       test: /\.md$/,
