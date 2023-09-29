@@ -40,6 +40,7 @@ export const navigation = [
     title: 'Guides',
     links: [
       { title: 'Billing Overview', href: '/guides/billing' },
+      { title: 'Subscription Usage Renewal', href: '/guides/cron' },
       { title: 'Templates', href: '/guides/presets' },
     ],
   },
