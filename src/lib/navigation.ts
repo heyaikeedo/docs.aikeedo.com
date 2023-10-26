@@ -24,6 +24,15 @@ export const navigation = [
     ],
   },
   {
+    title: "Identity Providers",
+    links: [
+      { title: "Google", href: "/identity/google" },
+      { title: "Facebook", href: "/identity/facebook" },
+      { title: "LinkedIn", href: "/identity/linkedin" },
+      { title: "Github", href: "/identity/github" },
+    ]
+  },
+  {
     title: 'Payment Gateways',
     links: [
       { title: 'PayPal', href: '/payments/paypal' },
