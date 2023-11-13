@@ -29,6 +29,7 @@ Make sure the following PHP extensions are installed:
 - `tokenizer`
 - `xml`
 - `xmlwriter`
+- `intl`
 
 _Note: Some additional extensions might be required, but these are generally installed by default._
 
