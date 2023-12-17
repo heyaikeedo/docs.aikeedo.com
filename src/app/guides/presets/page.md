@@ -44,6 +44,12 @@ A custom label for multiline inputs can be set as follows:
 { input_name | multiline | label:Input name }
 ```
 
+An input with predefined options is defined using the `type` attribute with a value of `enum`. The options are defined using the `options` attribute:
+
+```plaintext
+{ input_name | type:enum | options:Option 1, Option 2, Option 3 }
+```
+
 ## Available Attributes
 
 ### label
@@ -60,6 +66,22 @@ The `multiline` attribute defines a multiline text input:
 
 ```html
 { input_name | multiline }
+```
+
+### type
+
+The `type` attribute defines the type of input. Currently the only possible value is `enum`.
+
+```html
+{ input_name | type:enum }
+```
+
+### options
+
+The `options` attribute defines the options for an input with the `enum` type:
+
+```html
+{ input_name | type:enum | options:Option 1, Option 2, Option 3 }
 ```
 
 ### optional
