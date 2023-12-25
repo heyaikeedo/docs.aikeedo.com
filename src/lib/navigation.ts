@@ -66,5 +66,11 @@ export const navigation = [
       { title: 'Update', href: '/versioning/instructions' },
       { title: 'Changelog', href: '/versioning/changelog' },
     ],
+  },
+  {
+    title: 'API',
+    links: [
+      { title: 'API Reference', href: '/api/reference' }
+    ],
   }
 ]
