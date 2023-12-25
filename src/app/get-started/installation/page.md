@@ -8,6 +8,10 @@ nextjs:
 
 Follow these step-by-step instructions to install Aikeedo on your server and kickstart your AI-powered content creation journey. {% .lead %}
 
+{% callout type="warning" %}
+cPanel users, please refer to the [Installation in cPanel](/get-started/installation-in-cpanel) page.
+{% /callout %}
+
 ## Prerequisites
 
 Before you begin, ensure that you have configured your server. For more information, refer to the [Server Requirements](/get-started/requirements) guide.
