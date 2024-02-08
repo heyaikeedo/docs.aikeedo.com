@@ -18,7 +18,7 @@ Set the trial period duration for new users. A value of 0 disables the trial per
 
 ## Sign Up Plan
 
-Select the plan to which new users will be automatically subscribed without providing payment details. This feature streamlines the onboarding process. Choose "None" to disable automatic subscription, requiring users to choose a plan themselves.
+Select the plan to which new users will be automatically subscribed without providing payment details. This feature streamlines the onboarding process. Choose "None" to disable automatic subscription, requiring users to choose a plan themselves. It's important to note that only monthly or yearly recurring plans can be selected as the Sign-Up plan.
 
 {% callout type="warning" %}
 If selecting any paid plan for automatic subscription, it's highly recommended to enable the trial period. Otherwise, new users will be able to access the selected paid plan for free.
@@ -26,12 +26,12 @@ If selecting any paid plan for automatic subscription, it's highly recommended t
 
 ## Fallback Plan
 
-Define the plan that users will be automatically subscribed to if any subscription expires or fails to renew. This acts as a fallback mechanism. Choose "None" to disable automatic downgrading, requiring users to choose a new plan themselves.
+Define the plan that users will be automatically subscribed to if any subscription expires or fails to renew. This acts as a fallback mechanism. Choose "None" to disable automatic downgrading, requiring users to choose a new plan themselves. It's important to note that only monthly or yearly recurring plans can be selected as the Fallback plan.
 
 {% callout type="note" %}
 Ensure that you have created appropriate pricing plans before selecting the Sign-Up and Fallback plans to ensure a smooth user experience.
 {% /callout %}
 
-By configuring these billing settings, you can tailor the subscription process to meet the needs of your business and users. I
+By configuring these billing settings, you can tailor the subscription process to meet the needs of your business and users.
 
 If you have any questions or need assistance, feel free to [reach out to our support team](mailto:support@aikeedo.com).
