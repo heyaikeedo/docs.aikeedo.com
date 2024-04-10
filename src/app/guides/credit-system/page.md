@@ -22,6 +22,14 @@ The calculator is not part of the item and is available only to Extended License
 [Request Access](https://docs.google.com/spreadsheets/d/1C-os2ma8zigwwx-HMFPk7DvfS4rKNGcjk5VZfB-YbFo/edit#gid=0)
 {% /callout %}
 
+## How to use the calculator:
+
+Calculator is self-explanatory and easy to use. It contains information notes to guide you through the process.
+
+You can find green and orange cells in the calculator. Green cells are inputs to define the ratios and orange cells are outputs to show the calculated ratios. Basically, you need to define total amount of the credits you want to sell per 1 USD and define the profit margin. The calculator will automatically calculate the credit conversion ratios for you to use in the Admin UI.
+
+Later on at the below of the calculator, you can define pricing plans in your own currency and the calculator will automatically calculate the maximum credits that can be used in each plan according to the defined profit margin.
+
 ---
 
 Keeping Aikeedo updated ensures that you benefit from the latest advancements, security patches, and performance enhancements.
