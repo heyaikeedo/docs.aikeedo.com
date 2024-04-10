@@ -49,6 +49,7 @@ export const navigation = [
     title: 'Guides',
     links: [
       { title: 'Billing Overview', href: '/guides/billing' },
+      { title: 'Unified Credit System', href: '/guides/credit-system' },
       { title: 'Subscription Usage Renewal', href: '/guides/cron' },
       { title: 'Templates', href: '/guides/presets' },
     ],
@@ -63,7 +64,9 @@ export const navigation = [
   {
     title: 'Versioning',
     links: [
-      { title: 'Update', href: '/versioning/instructions' },
+      // { title: 'Update', href: '/versioning/instructions' },
+      { title: 'Release notes', href: '/versioning/release-notes' },
+      { title: 'Migrate to v2', href: '/versioning/migration' },
       { title: 'Changelog', href: '/versioning/changelog' },
     ],
   },

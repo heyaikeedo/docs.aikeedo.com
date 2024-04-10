@@ -37,7 +37,7 @@ Webhooks are necessary for handling recurring payments. Follow these steps to cr
 
 2. **Set Up Webhook Endpoint:**
 
-   - Set the webhook endpoint to `https://yourwebsite.com/webhooks`.
+   - Set the webhook endpoint to `https://yourwebsite.com/webhooks/stripe`.
 
 3. **Select Events:**
 

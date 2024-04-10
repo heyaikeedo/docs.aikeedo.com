@@ -20,16 +20,19 @@ Make sure the following PHP extensions are installed:
 - `ctype`
 - `curl`
 - `dom`
+- `fileinfo`
+- `intl`
 - `json`
 - `libxml`
 - `mbstring`
+- `openssl`
 - `pcre`
 - `phar`
 - `simplexml`
 - `tokenizer`
 - `xml`
 - `xmlwriter`
-- `intl`
+- `zip`
 
 _Note: Some additional extensions might be required, but these are generally installed by default._
 
