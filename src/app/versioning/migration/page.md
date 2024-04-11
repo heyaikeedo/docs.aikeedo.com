@@ -14,11 +14,15 @@ Learn how to migrate your current installation of Aikeedo to the latest version 
 
    - Before migrating your current installation of the Aikeedo v1.x its highly recommended to take a full backup of database and files
 
-2. **Update files:**
+2. **Remove old files:**
+
+   - Remove all files from the current installation directory except the `.env` file and the `public` directory.
+
+3. **Update files:**
 
    - As described in the [installation guide](/get-started/installation), upload server files to your server and extract the zip archive to the current installation directory. Owerrite all files.
 
-3. **Set installation environment::**
+4. **Set installation environment::**
 
    - Locate the `.env` file in the root directory of the Aikeedo installation and copy the database credentials to a safe place.
 
@@ -30,19 +34,19 @@ Learn how to migrate your current installation of Aikeedo to the latest version 
 
      Alternatively, you can remove the `.env` file from the root directory of the app.
 
-4. **Access Installation Page:**
+5. **Access Installation Page:**
 
    - Open a web browser and enter your domain or subdomain URL.
    - It should automatically redirect you to the installation page located at `/install`.
 
-5. **Follow On-Screen Instructions:**
+6. **Follow On-Screen Instructions:**
 
    - The installation wizard will guide you through the setup process.
    - You will be prompted to provide Database Credentials, Purchase Code, and Admin Account Details.
    - You you're prompted for Database Credentials, use the same credentials as in the `.env` file.
    - Follow the instructions carefully to complete the installation.
 
-6. **Complete Installation:**
+7. **Complete Installation:**
    - Once you have provided all the necessary information, the installation wizard will finalize the setup.
    - Confirm that the installation was successful, and you're ready to explore Aikeedo.
 
