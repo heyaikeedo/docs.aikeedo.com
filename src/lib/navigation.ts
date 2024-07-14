@@ -62,6 +62,13 @@ export const navigation = [
     ],
   },
   {
+    title: 'Plugins & Themes',
+    links: [
+      { title: 'Overview', href: '/plugins/overview' },
+      { title: 'How to build a plugin?', href: '/plugins/how-to-build' }
+    ],
+  },
+  {
     title: 'Versioning',
     links: [
       // { title: 'Update', href: '/versioning/instructions' },
