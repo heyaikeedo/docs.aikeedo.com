@@ -8,21 +8,12 @@ nextjs:
 
 Ready to unlock the power of Aikeedo? Follow these simple steps to get started. {% .lead %}
 
-## Purchase Aikeedo on CodeCanyon
+## Purchase Aikeedo
 
-- **CodeCanyon:** Aikeedo is available for purchase exclusively on [CodeCanyon](https://codecanyon.net/user/heyaikeedo), a reputable marketplace for premium scripts and applications.
+You can purhcase Aikeedo from the following sources:
 
-## How to Download
-
-Not sure how to download your copy of Aikeedo after making a purchase? Don't worry; we've got you covered. Follow these steps:
-
-1. **Visit CodeCanyon:** Go to [CodeCanyon](https://codecanyon.net/).
-2. **Login:** Log in to your CodeCanyon account.
-3. **Navigate to Downloads:** Click on the "Downloads" tab in your account dashboard.
-4. **Find Aikeedo:** Locate Aikeedo in your list of purchased items.
-5. **Download:** Click on the "Download" button next to Aikeedo to start the download process.
-
-For more detailed instructions, you can also refer to the official CodeCanyon guide on [how to download your items](https://help.market.envato.com/hc/en-us/articles/202501014-How-to-download-your-items).
+- **Official Website:** Visit our [official website](https://aikeedo.com)
+- **CodeCanyon:** Aikeedo is also available for purchase on [CodeCanyon](https://codecanyon.net/user/heyaikeedo), a reputable marketplace for premium scripts and applications.
 
 ## Installation Guide
 
