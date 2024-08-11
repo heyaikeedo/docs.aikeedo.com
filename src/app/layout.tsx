@@ -5,7 +5,6 @@ import clsx from 'clsx'
 
 import { Providers } from '@/app/providers'
 import { Layout } from '@/components/Layout'
-import { GoogleTagManager } from '@next/third-parties/google' 
 
 import '@/styles/tailwind.css'
 
@@ -42,7 +41,6 @@ export default function RootLayout({
       className={clsx('h-full antialiased', inter.variable, lexend.variable)}
       suppressHydrationWarning
     >
-      <GoogleTagManager gtmId="AW-11439228144" />
       <body className="flex min-h-full bg-white dark:bg-slate-900">
         <Providers>
           <Layout>{children}</Layout>
