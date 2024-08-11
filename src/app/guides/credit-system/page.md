@@ -14,12 +14,12 @@ We've also introduced a calculator (available through Google Sheets) to help you
 
 ## Access the calculator:
 
-You can access the calculator at the following link: [Aikeedo Price Calculator](https://docs.google.com/spreadsheets/d/1C-os2ma8zigwwx-HMFPk7DvfS4rKNGcjk5VZfB-YbFo/edit#gid=0)
+You can access the calculator at the following link: [Aikeedo Price Calculator](https://drive.google.com/drive/folders/1AHqGqHT6tQyRwRxS2v2j0RngxGbqr_pA?usp=drive_link)
 
 {% callout type="warning" title="Important" %}
 The calculator is not part of the item and is available only to Extended License users for free. To get access to the calculator, please send your purchase code at following link along with your request. After verification, we will provide you access to the calculator.
 
-[Request Access](https://docs.google.com/spreadsheets/d/1C-os2ma8zigwwx-HMFPk7DvfS4rKNGcjk5VZfB-YbFo/edit#gid=0)
+[Request Access](https://drive.google.com/drive/folders/1AHqGqHT6tQyRwRxS2v2j0RngxGbqr_pA?usp=drive_link)
 {% /callout %}
 
 ## How to use the calculator:
