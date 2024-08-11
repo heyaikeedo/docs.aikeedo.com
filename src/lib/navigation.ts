@@ -13,7 +13,8 @@ export const navigation = [
     title: 'Website & Branding',
     links: [
       { title: 'Title & SEO', href: '/settings/general' },
-      { title: 'Logo', href: '/settings/brand' }
+      { title: 'Logo', href: '/settings/brand' },
+      { title: 'Figma file', href: '/settings/figma' }
     ],
   },
   {
