@@ -31,7 +31,7 @@ It's important to note that, all pathes here are absolute pathes, `/home/usernam
 3. **Configure domain root public directory:**
 
    - Find the **public** directory inside the extracted archive. This directory contains all the files that should be accessible to the public. Do not confuse the **public** directory with default cPanel's **public_html** directory. If you've followed the previous steps correctly, the full path of the **public** directory should be `/home/username/public`.
-   - Move all files from the `/home/username/public` directory into the `/home/username/public_html` directory.
+   - Copy all files from the `/home/username/public` directory into the `/home/username/public_html` directory.
    - **Important:** Ensure to copy the `/home/username/public/.htaccess` file, which might be hidden in cPanel's file manager.
    - In the `/home/username/bootstrap/container.php` file, update line 21 as below:
 
