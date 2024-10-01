@@ -44,6 +44,7 @@ export const navigation = [
     title: 'AI, GPT & Generators',
     links: [
       { title: 'OpenAI', href: '/ai/openai' },
+      { title: 'Google Cloud Platform', href: '/ai/gcp' },
     ],
   },
   {
